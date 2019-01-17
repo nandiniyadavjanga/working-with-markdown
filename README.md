@@ -100,5 +100,5 @@ dcase@nwmissouri.edu
 ## MY Text
 
 **Nandini**
-- [Nandu](https://www.google.com/search?q=dog&rlz=1C1GCEB_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXjvX34PPfAhUCQKwKHdNRD0sQ_AUIDigB&biw=1334&bih=565#imgrc=FOf_jOXkmPuXdM:)
+![Nandu image](https://cnet4.cbsistatic.com/img/Kw1vhc0U5GnJo_s2ftK9NRfIsTo=/970x0/2019/01/11/cb20d240-af62-438a-887a-a6fb74cfb0ba/clara.jpg "My image")
 
