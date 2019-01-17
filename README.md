@@ -67,9 +67,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
-## MY Text
 
-**Nandini**
 
 ## Displaying Local Images
 
@@ -99,5 +97,8 @@ Denise Case
 dcase@nwmissouri.edu
 
 ## New Section 
+## MY Text
 
+**Nandini**
+![nandu image](https://www.google.com/search?q=dog&rlz=1C1GCEB_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXjvX34PPfAhUCQKwKHdNRD0sQ_AUIDigB&biw=1334&bih=565#imgrc=FOf_jOXkmPuXdM:"image")
 
