@@ -67,7 +67,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
-##MY Text
+## MY Text
 
 **Nandini**
 
