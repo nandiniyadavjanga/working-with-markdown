@@ -100,5 +100,5 @@ dcase@nwmissouri.edu
 ## MY Text
 
 **Nandini**
-![nandu image](https://www.google.com/search?q=dog&rlz=1C1GCEB_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXjvX34PPfAhUCQKwKHdNRD0sQ_AUIDigB&biw=1334&bih=565#imgrc=FOf_jOXkmPuXdM:"image")
+![nandu image](https://www.google.com/search?q=dog&rlz=1C1GCEB_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXjvX34PPfAhUCQKwKHdNRD0sQ_AUIDigB&biw=1334&bih=565#imgrc=FOf_jOXkmPuXdM:.jpg)
 
