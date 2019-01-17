@@ -101,4 +101,4 @@ dcase@nwmissouri.edu
 
 **Nandini**
 ![Nandu image](https://cnet4.cbsistatic.com/img/Kw1vhc0U5GnJo_s2ftK9NRfIsTo=/970x0/2019/01/11/cb20d240-af62-438a-887a-a6fb74cfb0ba/clara.jpg "My image")
-![local image](https://github.com/profcase/working-with-markdown/blob/master/dog.jpg)
+![local image](https://github.com/nandiniyadavjanga/working-with-markdown/blob/master/dog.jpg)
